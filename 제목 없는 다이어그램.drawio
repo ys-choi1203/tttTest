@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-25T01:38:15.812Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="m4IJ0TgH-SpalVsFwJvN" version="13.6.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-08-25T03:33:18.244Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="53ldJViDBeTfLKfWfKA-" version="13.6.4" type="github" pages="4">
   <diagram id="KNpFS8UTVIkOIXCPBSxB" name="페이지-1">
     <mxGraphModel dx="1102" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LHmFUk6uctuLpTLk0S07" name="uml체험">
-    <mxGraphModel dx="1102" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1102" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="O0AF731DD-x7t5gvwVMw-0" />
         <mxCell id="O0AF731DD-x7t5gvwVMw-1" parent="O0AF731DD-x7t5gvwVMw-0" />
@@ -275,8 +275,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="twafrD7xVXS2k1_xA32P" name="Page-3">
-    <mxGraphModel dx="1102" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="twafrD7xVXS2k1_xA32P" name="uml체험-고객">
+    <mxGraphModel dx="1102" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="E19JoeNlQG5BR9VwPQJx-0" />
         <mxCell id="E19JoeNlQG5BR9VwPQJx-1" parent="E19JoeNlQG5BR9VwPQJx-0" />
@@ -540,6 +540,51 @@
         </mxCell>
         <mxCell id="Kp6ePo3SZ8kB5kW9axJX-63" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="E19JoeNlQG5BR9VwPQJx-1">
           <mxGeometry x="653.75" y="1280" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ez43A9vHh2cHHTu5_VxZ" name="시퀀스">
+    <mxGraphModel dx="975" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WgjGHqoYaNXcrIOaERti-0" />
+        <mxCell id="WgjGHqoYaNXcrIOaERti-1" parent="WgjGHqoYaNXcrIOaERti-0" />
+        <mxCell id="WgjGHqoYaNXcrIOaERti-11" value="강사" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="WgjGHqoYaNXcrIOaERti-1">
+          <mxGeometry x="80" y="40" width="90" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="WgjGHqoYaNXcrIOaERti-16" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="WgjGHqoYaNXcrIOaERti-11">
+          <mxGeometry x="40" y="60" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="WgjGHqoYaNXcrIOaERti-12" value="프로그램 관리팀" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="WgjGHqoYaNXcrIOaERti-1">
+          <mxGeometry x="270" y="40" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="VD3X3ZwSj2rvxys_SKp0-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="WgjGHqoYaNXcrIOaERti-12">
+          <mxGeometry x="45" y="70" width="10" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="WgjGHqoYaNXcrIOaERti-13" value="고객팀" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="WgjGHqoYaNXcrIOaERti-1">
+          <mxGeometry x="460" y="40" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="WgjGHqoYaNXcrIOaERti-14" value="고객" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="WgjGHqoYaNXcrIOaERti-1">
+          <mxGeometry x="650" y="40" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="WgjGHqoYaNXcrIOaERti-15" value="준비" style="html=1;verticalAlign=bottom;startArrow=circle;startFill=1;endArrow=open;startSize=6;endSize=8;" edge="1" parent="WgjGHqoYaNXcrIOaERti-1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="70" y="100" as="sourcePoint" />
+            <mxPoint x="120" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VD3X3ZwSj2rvxys_SKp0-0" value="프로그램 등록 요청합니다" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="WgjGHqoYaNXcrIOaERti-1" target="WgjGHqoYaNXcrIOaERti-12">
+          <mxGeometry x="-0.0501" width="80" relative="1" as="geometry">
+            <mxPoint x="130" y="110" as="sourcePoint" />
+            <mxPoint x="210" y="110" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VD3X3ZwSj2rvxys_SKp0-4" value="프로그램 브로슈어를 전달합니다." style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="WgjGHqoYaNXcrIOaERti-1" target="WgjGHqoYaNXcrIOaERti-13">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="326" y="120" as="sourcePoint" />
+            <mxPoint x="406" y="120" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
