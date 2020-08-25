@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-24T14:43:59.890Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="eO5PCjDMWomsT7OGUhPw" version="13.6.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-08-25T00:51:16.413Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="drc0VyPlgP5qYnF_zMhD" version="13.6.4" type="github" pages="3">
   <diagram id="KNpFS8UTVIkOIXCPBSxB" name="페이지-1">
-    <mxGraphModel dx="735" dy="1077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1102" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LHmFUk6uctuLpTLk0S07" name="uml체험">
-    <mxGraphModel dx="735" dy="1077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1102" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="O0AF731DD-x7t5gvwVMw-0" />
         <mxCell id="O0AF731DD-x7t5gvwVMw-1" parent="O0AF731DD-x7t5gvwVMw-0" />
@@ -266,7 +266,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="twafrD7xVXS2k1_xA32P" name="Page-3">
-    <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1102" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="E19JoeNlQG5BR9VwPQJx-0" />
         <mxCell id="E19JoeNlQG5BR9VwPQJx-1" parent="E19JoeNlQG5BR9VwPQJx-0" />
@@ -306,17 +306,60 @@
         <mxCell id="E19JoeNlQG5BR9VwPQJx-18" value="&lt;font style=&quot;font-size: 15px&quot;&gt;프로그램 취합&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fontSize=25;fillColor=none;" parent="E19JoeNlQG5BR9VwPQJx-1" vertex="1">
           <mxGeometry x="92.5" y="230" width="145" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="l9mO_XiWyYNW8oiD2MbO-0" value="프로그램&amp;nbsp;&lt;br&gt;브로슈어 제작" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="E19JoeNlQG5BR9VwPQJx-1">
+        <mxCell id="l9mO_XiWyYNW8oiD2MbO-0" value="프로그램&amp;nbsp;&lt;br&gt;브로슈어 제작" style="rounded=1;whiteSpace=wrap;html=1;" parent="E19JoeNlQG5BR9VwPQJx-1" vertex="1">
           <mxGeometry x="355" y="225" width="132.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="l9mO_XiWyYNW8oiD2MbO-1" value="프로그램&lt;br&gt;브로슈어 확인" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="E19JoeNlQG5BR9VwPQJx-1">
+        <mxCell id="l9mO_XiWyYNW8oiD2MbO-1" value="프로그램&lt;br&gt;브로슈어 확인" style="rounded=1;whiteSpace=wrap;html=1;" parent="E19JoeNlQG5BR9VwPQJx-1" vertex="1">
           <mxGeometry x="620" y="225" width="132.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="l9mO_XiWyYNW8oiD2MbO-2" value="프로그램 선택" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="E19JoeNlQG5BR9VwPQJx-1">
+        <mxCell id="l9mO_XiWyYNW8oiD2MbO-2" value="프로그램 선택" style="rounded=1;whiteSpace=wrap;html=1;" parent="E19JoeNlQG5BR9VwPQJx-1" vertex="1">
           <mxGeometry x="620" y="290" width="132.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="l9mO_XiWyYNW8oiD2MbO-3" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="E19JoeNlQG5BR9VwPQJx-1">
+        <mxCell id="bzsiu6KG2FBP_Buj-nec-0" value="장바구니" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="E19JoeNlQG5BR9VwPQJx-1">
+          <mxGeometry x="710" y="430" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bzsiu6KG2FBP_Buj-nec-1" value="예약정보 취합" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="E19JoeNlQG5BR9VwPQJx-1">
+          <mxGeometry x="360" y="505" width="132.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bzsiu6KG2FBP_Buj-nec-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="E19JoeNlQG5BR9VwPQJx-1" source="bzsiu6KG2FBP_Buj-nec-11" target="bzsiu6KG2FBP_Buj-nec-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bzsiu6KG2FBP_Buj-nec-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="E19JoeNlQG5BR9VwPQJx-1" source="bzsiu6KG2FBP_Buj-nec-11" target="bzsiu6KG2FBP_Buj-nec-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="631" y="383" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bzsiu6KG2FBP_Buj-nec-11" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="E19JoeNlQG5BR9VwPQJx-1">
           <mxGeometry x="671.25" y="360" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bzsiu6KG2FBP_Buj-nec-13" value="바로결제" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="E19JoeNlQG5BR9VwPQJx-1">
+          <mxGeometry x="591.25" y="430" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bzsiu6KG2FBP_Buj-nec-15" value="예약정보 입력" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="E19JoeNlQG5BR9VwPQJx-1">
+          <mxGeometry x="578.75" y="510" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bzsiu6KG2FBP_Buj-nec-16" value="결제 요청" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="E19JoeNlQG5BR9VwPQJx-1">
+          <mxGeometry x="360" y="565" width="132.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bzsiu6KG2FBP_Buj-nec-18" value="결제정보 입력" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="E19JoeNlQG5BR9VwPQJx-1">
+          <mxGeometry x="578.75" y="570" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bzsiu6KG2FBP_Buj-nec-19" value="결제" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="E19JoeNlQG5BR9VwPQJx-1">
+          <mxGeometry x="578.75" y="630" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bzsiu6KG2FBP_Buj-nec-21" value="결제정보 취합" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="E19JoeNlQG5BR9VwPQJx-1">
+          <mxGeometry x="360" y="625" width="132.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bzsiu6KG2FBP_Buj-nec-22" value="최종 예약자 정보 취합" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="E19JoeNlQG5BR9VwPQJx-1">
+          <mxGeometry x="360" y="690" width="132.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bzsiu6KG2FBP_Buj-nec-23" value="최종 예약자 정보 취합" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="E19JoeNlQG5BR9VwPQJx-1">
+          <mxGeometry x="98.75" y="690" width="132.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bzsiu6KG2FBP_Buj-nec-24" value="프로그램 안내" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="E19JoeNlQG5BR9VwPQJx-1">
+          <mxGeometry x="98.75" y="770" width="132.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
